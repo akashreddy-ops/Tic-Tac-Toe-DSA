@@ -212,7 +212,7 @@ Tic-Tac-Toe-DSA/
 # ▶️ How to Run
 1️⃣ Clone the Repository
 ```
-git clone YOUR_REPOSITORY_URL
+git clone https://tic-tac-toe-dsa.vercel.app/
 ```
 # 2️⃣ Open the Project
 
